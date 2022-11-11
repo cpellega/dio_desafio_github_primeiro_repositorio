@@ -1,0 +1,4 @@
+Link para download do Git : http://git-scn.com/downloads
+
+O Git Bash e um terminal extendido para otmizar o uso do Git.
+Nele podemos executar comandos locais e posteriormente enviar para o GitHub.
